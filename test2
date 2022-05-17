@@ -1,13 +1,2 @@
 aa
 bb
-
-branch +eeeee
-
-<<<<<<< Updated upstream
-
-aabbccc
-=======
-branch +eeeee
-
-branch after main edit aabbccdde
->>>>>>> Stashed changes
