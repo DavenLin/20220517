@@ -1,3 +1,7 @@
 aa
 bb
+<<<<<<< Updated upstream
 CCC
+=======
+ddd
+>>>>>>> Stashed changes
